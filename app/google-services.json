@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "65620847620",
+    "project_id": "mood-day",
+    "storage_bucket": "mood-day.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65620847620:android:ee57a75607222d20961951",
+        "android_client_info": {
+          "package_name": "com.fansipan.habit.tracker.mood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65620847620-acde83s4fi4orqq684fs26doqe6h6ios.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fansipan.habit.tracker.mood",
+            "certificate_hash": "19992c4de6042d69dbb5e5345f3fcc8dcff363e5"
+          }
+        },
+        {
+          "client_id": "65620847620-no7ltm0sneesqbaucru84nq4hihjint2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fansipan.habit.tracker.mood",
+            "certificate_hash": "0ab20626ae78bad1a0ced2ab989aad57fdd045da"
+          }
+        },
+        {
+          "client_id": "65620847620-h3l6khinvh57duend4ik7rl7sau82ffr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR-ER_PANaEt0HCeoDMFo5DI8TIVgDeog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65620847620-ajfodnpagjnffj9kq3b0kuep8j3ctb6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
